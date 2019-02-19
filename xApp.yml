@@ -1,0 +1,15 @@
+targets:
+  EmptyDataSet-Swift:
+    platform: iOS
+    type: framework
+    settings:
+      base:
+        APP_NAME: EmptyDataSet-Swift
+        PRODUCT_NAME: EmptyDataSet-Swift
+      configs:
+        INFOPLIST_FILE: EmptyDataSet-Swift/Info.plist
+    sources:
+      - path: EmptyDataSet-Swift
+    dependencies:
+      - carthage: SnapKit
+    scheme: {}

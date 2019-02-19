@@ -1,0 +1,11 @@
+name: EmptyDataSet-Swift
+attributes:
+    ORGANIZATIONNAME: EmptyDataSet-Swift
+options:
+  deploymentTarget:
+    iOS: 9.0
+settings:
+    SWIFT_VERSION: "4.2"
+
+include:
+  - xApp.yml
