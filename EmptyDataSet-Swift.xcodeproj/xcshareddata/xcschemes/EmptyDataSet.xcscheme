@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "NT_486302251653"
-               BuildableName = "EmptyDataSet-Swift.framework"
-               BlueprintName = "EmptyDataSet-Swift"
+               BlueprintIdentifier = "NT_334172979609"
+               BuildableName = "EmptyDataSet.framework"
+               BlueprintName = "EmptyDataSet"
                ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "NT_486302251653"
-            BuildableName = "EmptyDataSet-Swift.framework"
-            BlueprintName = "EmptyDataSet-Swift"
+            BlueprintIdentifier = "NT_334172979609"
+            BuildableName = "EmptyDataSet.framework"
+            BlueprintName = "EmptyDataSet"
             ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -57,9 +57,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "NT_486302251653"
-            BuildableName = "EmptyDataSet-Swift.framework"
-            BlueprintName = "EmptyDataSet-Swift"
+            BlueprintIdentifier = "NT_334172979609"
+            BuildableName = "EmptyDataSet.framework"
+            BlueprintName = "EmptyDataSet"
             ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -78,9 +78,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "NT_486302251653"
-            BuildableName = "EmptyDataSet-Swift.framework"
-            BlueprintName = "EmptyDataSet-Swift"
+            BlueprintIdentifier = "NT_334172979609"
+            BuildableName = "EmptyDataSet.framework"
+            BlueprintName = "EmptyDataSet"
             ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

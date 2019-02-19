@@ -1,11 +1,11 @@
 targets:
-  EmptyDataSet-Swift:
+  EmptyDataSet:
     platform: iOS
     type: framework
     settings:
       base:
-        APP_NAME: EmptyDataSet-Swift
-        PRODUCT_NAME: EmptyDataSet-Swift
+        APP_NAME: EmptyDataSet
+        PRODUCT_NAME: EmptyDataSet
       configs:
         INFOPLIST_FILE: EmptyDataSet-Swift/Info.plist
     sources:
