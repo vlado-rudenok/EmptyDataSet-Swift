@@ -392,6 +392,7 @@
 				INFOPLIST_FILE = "EmptyDataSet-Swift/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "YZF.EmptyDataSet-Swift";
 				PRODUCT_NAME = EmptyDataSet;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -468,6 +469,7 @@
 				INFOPLIST_FILE = "EmptyDataSet-Swift/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "YZF.EmptyDataSet-Swift";
 				PRODUCT_NAME = EmptyDataSet;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;

@@ -6,6 +6,7 @@ targets:
       base:
         APP_NAME: EmptyDataSet
         PRODUCT_NAME: EmptyDataSet
+        PRODUCT_BUNDLE_IDENTIFIER: YZF.EmptyDataSet-Swift
       configs:
         INFOPLIST_FILE: EmptyDataSet-Swift/Info.plist
     sources:
